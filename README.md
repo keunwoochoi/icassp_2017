@@ -1,7 +1,7 @@
 # icassp 2017
 
 This repo **WILL** contain 
- * split setting
+ * split setting (which exists in [this repo](https://github.com/keunwoochoi/MSD_split_for_tagging) already)
  * codes to build the used models in the paper
  * Pre-trained weights of some system
 

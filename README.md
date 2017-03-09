@@ -7,4 +7,4 @@ This repo **WILL** contain
 
 for the paper, [Convolutional Recurrent Neural Networks for Music Classification](https://arxiv.org/abs/1609.04243). 
 
-...and perhaps I will have to change the name of this repo if I got rejected.
+Meanwhile, take a look on [my previous music tagger repo](https://github.com/keunwoochoi/music-auto_tagging-keras)
